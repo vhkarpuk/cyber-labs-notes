@@ -14,6 +14,9 @@ machines/
 02-smb-guest/
 03-redeemer/
 04-ssti-flask-mako/
+05-arctic/
+06-querier/
+07-bastion/
 ```
 
 ## Methodology (HTB Labs)
@@ -28,4 +31,4 @@ machines/
 8) Re-test/Validation — how to verify the fix is effective.
 9) Reporting — sanitized write-up and evidence.
 
--Not every phase applies to every box (e.g., some SP boxes won’t have post-exploitation).
+-Not every phase applies to every box (e.g., some SP boxes won't have post-exploitation).
